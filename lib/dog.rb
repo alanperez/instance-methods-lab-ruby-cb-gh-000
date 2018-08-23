@@ -4,7 +4,5 @@ class Dog
   #Instance Method Def
     def bark
       puts "Woof!"
-  
+    end
 end
-
-
